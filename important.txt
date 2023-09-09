@@ -1,0 +1,6 @@
+--- Ukuran Foto ---
+Profil Mempelai : 400px x 400px
+Background-Home : 2000px x 2000px
+Background-wedding (paling atas) : 1920px x 1280px
+Foto Gallery Yang paling Besar : 1200px x 768px
+Foto Thumbnail (croped) Potrait: 400px x 533px
